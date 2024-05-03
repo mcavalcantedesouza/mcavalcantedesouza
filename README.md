@@ -1,5 +1,9 @@
-### Hi there 👋
+<img width=100% src="https://github.com/mcavalcantedesouza/mcavalcantedesouza/assets/149630140/f5ef3ee3-97df-424e-bdc3-899922246c80"/>
+<div align="center">
+  <img width=70% src="https://github.com/mcavalcantedesouza/mcavalcantedesouza/assets/149630140/c7b02053-bd8f-41bc-a06b-205e35fdec8c" />
+</div>
 
+<img width=100% src="https://github.com/mcavalcantedesouza/mcavalcantedesouza/assets/149630140/f86a179e-e8fb-4584-912f-002a71930ee8"/>
 <!--
 **mcavalcantedesouza/mcavalcantedesouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
