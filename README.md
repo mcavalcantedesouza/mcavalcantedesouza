@@ -5,8 +5,8 @@
 
 <div>
 <a href="https://github.com/mcavalcantedesouza">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcavalcantedesouza&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=mcavalcantedesouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcavalcantedesouza&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=mcavalcantedesouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
   <img width=100% src="https://github.com/mcavalcantedesouza/mcavalcantedesouza/assets/149630140/f86a179e-e8fb-4584-912f-002a71930ee8"/>
