@@ -3,7 +3,7 @@
   <img width=70% src="https://github.com/mcavalcantedesouza/mcavalcantedesouza/assets/149630140/c7b02053-bd8f-41bc-a06b-205e35fdec8c" />
 </div>
 
-<div>
+<div align="center">
 <a href="https://github.com/mcavalcantedesouza">
 <img loading="lazy" height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcavalcantedesouza&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=mcavalcantedesouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
