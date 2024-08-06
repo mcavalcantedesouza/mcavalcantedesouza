@@ -12,6 +12,7 @@
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=mcavalcantedesouza&show_icons=true&locale=en&theme=react" alt="mcavalcantedesouza" />
 </div>
 
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin: auto;" width=100%>
   <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a>
@@ -34,6 +35,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </div>
+-->
 
 
 <img width=100% src="https://github.com/mcavalcantedesouza/mcavalcantedesouza/assets/149630140/f86a179e-e8fb-4584-912f-002a71930ee8"/>
